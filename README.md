@@ -5,7 +5,7 @@ Let's go!
 
 ## "It's fine because it's in the game"
 
-> "If your argument can defend everything, you're an idiot."  
+> "If your argument can defend everything, you are therefore an idiot."  
 > -Shard
 
 This is one of the easiest arguments to counter. Whenever you criticize a feature or component of a game, call something overpowered or broken, or say something's designed badly, there is, unfailingly, a group of retards who hop onto the thread and respond with this gem. Some of the more common responses are:
@@ -22,6 +22,14 @@ People who say these things are assuming ALL of the following:
 - The game has impenetrable security layers to prevent hacking/cheating.
 - The devs thought of literally every situation.
 
+This argument can also be applied to everything. This is a tell-tale sign that your argument sucks:
+- It's ok for this champ to be permanently invincible and have 1-hit kills, because that's his kit.
+- It's ok to exploit this infinite health bug, because it's in the game.
+- It's ok for people to use aimhack/wallhack, because it's in the game.
+
 Needless to say, if you believe all of those things, you're pretty fucking stupid.
 
 A variant of this is the more seldomly used "Learn to adapt."
+
+## Loss Aversion
+
