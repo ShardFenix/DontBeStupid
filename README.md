@@ -1,5 +1,4 @@
-# DontBeStupid
-Over the fifteen years or so that I have been part of the competitive gaming community, I have seen no shortage of blatant stupidity which plagues the forums and subreddits for those games. Efforts to dispel some of the fallacies and misunderstandings that are often used in these communities has been largely unsuccessful outside of my GuidWarsWiki pages (which nobody visits anymore as that game is dead). Whenever anyone posts anything remotely critical in reddit, it gets immediately banned. Therefore, I have decided to collect this information here.
+Over the fifteen years or so that I have been part of the competitive gaming community, I have seen no shortage of blatant stupidity which plagues the forums and subreddits for the games I play. Efforts to dispel some of the fallacies and misunderstandings that are often used in these communities has been largely unsuccessful outside of my GuidWarsWiki pages (which nobody visits anymore as that game is dead). Whenever anyone posts anything remotely critical in reddit, it gets immediately deleted. Therefore, I have decided to collect this information here, where it's not controlled by an anti-intellectual hillbilly bandwagon-gamer.
 
 Let's go!
 
@@ -12,7 +11,7 @@ This is one of the easiest arguments to counter. Whenever you criticize a featur
 
 - It's fine because it's in the game.
 - (for MOBAs) It's fine because that's his kit.
-- (Rocket League) Infinite boost is fine because your car has a rocket strapped to it.
+- (Rocket League) It's fine because your car has a rocket strapped to it.
 - If it wasn't fine, the devs wouldn't have put it in.
 - A company made it, so it must be good.
 
@@ -23,15 +22,25 @@ People who say these things are assuming ALL of the following:
 - The game has impenetrable security layers to prevent hacking/cheating.
 - The devs thought of literally every situation.
 
+Needless to say, if you believe all of those things, you're pretty fucking stupid.
+
 This argument can also be applied to everything. This is a tell-tale sign that your argument sucks:
 - It's ok for this champ to be permanently invincible and have 1-hit kills, because that's his kit.
 - It's ok to exploit this infinite health bug, because it's in the game.
 - It's ok for people to use aimhack/wallhack, because it's in the game.
 
-Needless to say, if you believe all of those things, you're pretty fucking stupid.
-
 The reality is, game developers aren't perfect. All of them are human. All of them make mistakes. Some of those mistakes won't get caught. Additionally, some game designers are grossly incompetent, and either nobody else at their company is aware of this, or they don't have the power to do anything about it.
 
 ## Loss Aversion
 
-You'll hear this one when a game update is coming down the pipe, or has just been released.
+You'll hear this one when a game update is coming down the pipe, or has just been released:
+- This change is bad because it nerfs something I like.
+- This change is good because it buffs something I like.
+
+This fallacy is caused by [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion). Basically, people think positively about things that they see as gains, and think badly about things they see as losses. The reason saying this makes you stupid is because you are assuming that the game's state prior to the update somehow changes the content of the game after the update. It does not. Consider the following thought experiment where a popular MOBA character gets a change:
+
+- Popular Hero's damage increased from 75 to 100.  
+or  
+- Popular Hero's damage decreased from 125 to 100.
+
+The state of the game after the change is identical. The hero does 100 damage. However, people will priase or criticize the game differently depending on what was in the game last week.
