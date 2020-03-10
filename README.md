@@ -14,6 +14,7 @@ This is one of the easiest arguments to counter. Whenever you criticize a featur
 - (for MOBAs) It's fine because that's his kit.
 - (Rocket League) Infinite boost is fine because your car has a rocket strapped to it.
 - If it wasn't fine, the devs wouldn't have put it in.
+- A company made it, so it must be good.
 
 People who say these things are assuming ALL of the following:
 
@@ -29,7 +30,8 @@ This argument can also be applied to everything. This is a tell-tale sign that y
 
 Needless to say, if you believe all of those things, you're pretty fucking stupid.
 
-A variant of this is the more seldomly used "Learn to adapt."
+The reality is, game developers aren't perfect. All of them are human. All of them make mistakes. Some of those mistakes won't get caught. Additionally, some game designers are grossly incompetent, and either nobody else at their company is aware of this, or they don't have the power to do anything about it.
 
 ## Loss Aversion
 
+You'll hear this one when a game update is coming down the pipe, or has just been released.
