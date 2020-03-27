@@ -59,3 +59,15 @@ The more astute among you may notice that the above quote has zero elements of a
 Subconsciously, people who say this have a hidden agenda: "I use this broken strategy to win, because I'm not good enough to win using balanced game components and fair rules. Therefore, I must keep this broken thing in the game as long as possible. Telling people to adapt to the fact that I'm cheating makes me feel superior in a game that I otherwise suck at."
 
 Of course, since people who say this have very low intelligence, their head voice says something more like this: "Me like overpowered thing. I win lots. Must keep winning. Pull words from ass to defend cheating."
+
+## Winning, skill, and rank
+There seems to be a huge amount of confusion in all competitive communities on this topic. Many people seem to believe that your win rate, or your ability to win, or your rank have any correllation to how good you are. I regret to inform you that this is not the case in most games.
+
+Rank is only an indicator of skill if all of the following conditions are met:
+- The game rewards skill-based play and punishes unskilled players / mistakes.
+- The game is a 1v1 game, OR your rating window is both very very large (hundreds of games) and you also never play with the same people.
+- The game contains no forms of cheating.
+
+It is almost impossible to find a popular online game where all of these are true. That's not a coincidence - games that reward bad players naturally become more popular, as they make newer, inexperienced players feel good by giving them wins they don't deserve. One way to solve this is to have different game modes: One for newer or bad players so their feelings get caressed, and one for players who actually want to compete. No games on the market currently do this.
+
+To 
