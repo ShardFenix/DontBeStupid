@@ -35,8 +35,8 @@ The reality is, game developers aren't perfect. All of them are human. All of th
 ## Loss Aversion
 
 You'll hear this one when a game update is coming down the pipe, or has just been released:
-- The game is worse now because you nerfed something I like.
-- The game is better now because you buffed something I like.
+- The game is bad now because you nerfed something I like.
+- The game is good now because you buffed something I like.
 
 This fallacy is caused by [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion). Basically, people think positively about things that they see as gains, and think badly about things they see as losses. The reason saying this makes you stupid is because you are assuming that the game's state prior to the update somehow changes the content of the game after the update. It does not. Consider the following thought experiment where a popular MOBA character gets a change:
 
@@ -44,8 +44,20 @@ This fallacy is caused by [Loss Aversion](https://en.wikipedia.org/wiki/Loss_ave
 or  
 - Popular Hero's damage decreased from 125 to 100.
 
-The state of the game after the change is identical. The hero does 100 damage. However, people will priase or criticize the game differently depending on what was in the game last week. They take a change they see as positive or negative and wrongfully apply that feeling to the present state of things.
+The state of the game after the change is identical. The hero does 100 damage NOW. However, people will priase or criticize the game differently depending on what was in the game last week. They take a change they see as positive or negative and wrongfully apply that feeling to the present state of things.
 
-Unfortunately, people do this in real life. I have spoken to people who, when asked if they think Trump is a good president, will start their response by saying "Well, Obama..."
+Unfortunately, people do this in real life. I have spoken to people who, when asked if they think Trump is a good president, will start their response by saying "Well, Obama did X and Y...". Stop. Obama isn't president. Obama isn't part of Trump's administration. Obama's existence has nothing to do with whether Trump is a good president.
 
-No. Obama isn't president. Obama isn't part of Trump's administration. Obama's existence has nothing to do with whether Trump is a good president.
+More succintly, here is the complete list of things that affect the current state of the game:
+- The current state of the game
+
+Notice how that list did NOT contain "the state of the game last year" or "Contents of last week's patch notes".
+
+## "Learn to Adapt"
+This is a combination of the above two fallacies. Often, after a balance update or a neew expansion releases, there will be something unfair or broken in the game that should be addressed. Of course, there will always be a few retards that flaunt their no-name Silver League fame and retort with "It's fine. Learn to adapt."
+
+The more astute among you may notice that the above quote has zero elements of an argument. It has no evidence, no logic, and no conclusion. It is merely a claim, which is baseless and usually wrong.
+
+Subconsciously, people who say this have a hidden agenda: "I use this broken strategy to win, because I'm not good enough to win using balanced game components and fair rules. Therefore, I must keep this broken thing in the game as long as possible. Telling people to adapt to the fact that I'm cheating makes me feel superior in a game that I otherwise suck at."
+
+Of course, since people who say this have very low intelligence, their head voice says something more like this: "Me like overpowered thing. I win lots. Must keep winning. Pull words from ass to defend cheating."
