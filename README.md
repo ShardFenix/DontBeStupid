@@ -20,7 +20,7 @@ People who say these things are assuming ALL of the following:
 
 - People who designed the game are perfect and never make mistakes.
 - People who programmed the game are perfect and never make mistakes.
-- The game has impenetrable security layers to prevent hacking/cheating.
+- The game has no bugs or exploits.
 - The developers thought of literally everything.
 
 Needless to say, if you believe all of those things, you're pretty fucking stupid.
