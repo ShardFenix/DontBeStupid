@@ -52,7 +52,7 @@ More succintly, here is the complete list of things that affect the current stat
 Notice how that list did NOT contain "the state of the game last year" or "Contents of last week's patch notes".
 
 ## "Learn to Adapt"
-This is a combination of the above two fallacies. Often, after a balance update or a neew expansion releases, there will be something unfair or broken in the game that should be addressed. Of course, there will always be a few retards that flaunt their no-name Silver League fame and retort with "It's fine. Learn to adapt."
+This is a combination of the above two fallacies. Often, after a balance update or a new expansion releases, there will be something unfair or broken in the game that should be addressed. Of course, there will always be a few retards that flaunt their no-name Silver League fame and retort with "It's fine. Learn to adapt."
 
 The more astute among you may notice that the above quote has zero elements of an argument. It has no evidence, no logic, and no conclusion. It is merely a claim, which is baseless and usually wrong.
 
