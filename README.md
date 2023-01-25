@@ -69,5 +69,3 @@ Rank is only an indicator of skill if all of the following conditions are met:
 - The game contains no forms of cheating.
 
 It is almost impossible to find a popular online game where all of these are true. That's not a coincidence - games that reward bad players naturally become more popular, as they make newer, inexperienced players feel good by giving them wins they don't deserve. One way to solve this is to have different game modes: One for newer or bad players so their feelings get caressed, and one for players who actually want to compete. No games on the market currently do this.
-
-To 
